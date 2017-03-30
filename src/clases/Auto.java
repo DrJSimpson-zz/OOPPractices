@@ -28,11 +28,13 @@ public class Auto {
 		this.modelo = modelo;
 		this.marca = marca;
 	}
+	
+	
+	
 	@Override
 	public String toString() {
 		return "Auto [nombre=" + nombre + ", modelo=" + modelo + ", marca=" + marca + "]";
 	}
-	
 	public static Auto getAutoFromTextLine(String line) {
 		String[] value = line.split(",");
 		Auto a = new Auto(value[0], Integer.parseInt(value[1]), value[2]);
