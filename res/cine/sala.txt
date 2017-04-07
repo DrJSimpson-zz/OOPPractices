@@ -1,0 +1,5 @@
+Sala Azul,20,1,1
+Sala Verde,15,2,3
+Sala Roja,23,3,2
+Sala DeadPool,50,4,1
+Sala Xmen,34,5,2

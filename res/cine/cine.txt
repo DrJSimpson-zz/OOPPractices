@@ -1,0 +1,3 @@
+Cinemacenter, Shopping1, 1
+CineLindo, Shopping2, 2
+CineDeadPool, Shopping3, 3
